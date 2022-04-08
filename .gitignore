@@ -1,0 +1,5 @@
+/.git/
+/.idea/
+/.gradle/
+/app/build/
+/base_library_support/build/
